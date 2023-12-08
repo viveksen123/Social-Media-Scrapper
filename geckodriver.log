@@ -1,0 +1,12 @@
+1680426334685	geckodriver	INFO	Listening on 127.0.0.1:5482
+1680426337792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaind\\AppData\\Local\\Temp\\rust_mozprofilefCteJE"
+*** You are running in headless mode.
+1680426339101	Marionette	INFO	Marionette enabled
+1680426339107	Marionette	INFO	Listening on port 5503
+WebDriver BiDi listening on ws://localhost:5483
+Read port: 5503
+1680426339277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaind\\AppData\\Local\\Temp\\rust_mozprofilefCteJE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5483/devtools/browser/56ee6b42-e165-48d2-adb8-ca89df559d3f
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
